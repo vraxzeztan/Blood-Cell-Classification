@@ -12,5 +12,5 @@ Implemented CNN model on the dataset
 
 ## Score
 
-**Training Accuracy** - 96.9%
+**Training Accuracy** - 96.9%<br />
 **Testing Accuracy** - 75.67%
